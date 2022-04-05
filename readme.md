@@ -18,5 +18,5 @@ Run docker-compose up from the project root directory to load Anythink's backend
 
 Connect to the database: localhost:3000/api/ping
 
-If everything is working properly, you’ll be able to create a new user on localhost:3001/register
+If everything is working properly, you’ll be able to create a new user on localhost:3001/register 
 
